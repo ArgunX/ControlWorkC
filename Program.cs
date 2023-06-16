@@ -38,3 +38,6 @@ bool ComporateRepeat(int n, string[] array1, string[] array2)
     }
     return false;
 }
+
+
+Console.WriteLine($" Массив после редактирования-> [{string.Join(", ", ArrayFormat(InArray))}]");
