@@ -22,3 +22,19 @@ string[] ArrayFormat(string[] array)
     return OutArray;
 
 }
+
+
+bool ComporateRepeat(int n, string[] array1, string[] array2)
+
+{
+
+    for (int i = 0; i < array1.Length; i++)
+    {
+        if ( array1[i]!= "" && array1[i] == array2[n])
+        {
+            return true;
+        }
+
+    }
+    return false;
+}
