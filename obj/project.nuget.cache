@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mx8UPvKn7zOGQY2EtVo2QEcmEEOVfYZxPjQJ00naOlbgx26ABbGzINGiuJth9uNWWybVGiZc61564CZvo42ubQ==",
+  "success": true,
+  "projectFilePath": "/home/andrey/ControlWork1/ControlWork1.csproj",
+  "expectedPackageFiles": [
+    "/home/andrey/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
